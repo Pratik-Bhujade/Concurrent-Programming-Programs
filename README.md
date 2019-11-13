@@ -17,13 +17,13 @@ Once the threads have completed their work then the main program counts the freq
 # Compiling & Execution of Programs #
 
 - Question 1 -
-javac Question1.java -----> Compile
-java Question1 -----> Execute
+javac Question1.java *** [Compile]
+java Question1 *** [Execute]
 
 - Question 2 -
-javac Question2.java -----> Compile
-java Question2 -----> Execute
+javac Question2.java *** [Compile]
+java Question2 *** [Execute]
 
 - Question 3 -
-javac Question3.java -----> Compile
-java Question3 -----> Execute
+javac Question3.java *** [Compile]
+java Question3 *** [Execute]
