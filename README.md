@@ -21,7 +21,7 @@ javac Question1.java
 java Question1
 
 - Question 2 -
-javac Question2.java.java 
+javac Question2.java
 java Question2
 
 - Question 3 -
